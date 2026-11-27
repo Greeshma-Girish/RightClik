@@ -27,7 +27,7 @@ For images, simply right-click an image and select **Get Answer from Image**.
 ---
 
 <p align="center">
-  <img src="assets/demo.gif" alt="RightClick AI Walkthrough" width="65%">
+  <img src="assets/demo.gif" alt="RightClick AI Walkthrough" width="45%">
 </p>
 
 <p align="center">
@@ -70,8 +70,4 @@ RightClick AI removes those extra steps. Select something, right-click, and get 
 
 ---
 
-<<<<<<< HEAD
 **RightClick AI** — Right-click. Get answers. Keep browsing.
-=======
-**RightClick AI** — Right-click. Get answers. Keep browsing.
->>>>>>> bc14c951d4eb0bfbad08e48bb69870521ff5f3a8
