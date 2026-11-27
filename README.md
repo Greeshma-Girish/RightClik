@@ -27,37 +27,12 @@ For images, simply right-click an image and select **Get Answer from Image**.
 ---
 
 <p align="center">
-  <img src="assets/demo.gif" alt="RightClick AI Walkthrough" width="100%">
+  <img src="assets/demo.gif" alt="RightClick AI Walkthrough" width="65%">
 </p>
 
 <p align="center">
   <em>Drag to select text ➔ Right-click ➔ Choose <b>Get Answer</b> ➔ Instant floating HUD bubble.</em>
 </p>
-
-<details>
-<summary><b>📹 View / Embed High-Definition MP4 Video</b></summary>
-<br>
-
-```html
-<video width="100%" controls autoplay loop muted playsinline>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-```
-*(The raw video is saved at `assets/demo.mp4` in this repository).*
-</details>
-
----
-
-## 📸 Real Screenshot (In-Action)
-
-No mockups, no AI slop — here is RightClick AI running live on an actual quiz question:
-
-<p align="center">
-  <img src="assets/real-demo.png" alt="Real RightClick AI Screenshot" width="100%">
-</p>
-
-*The dark floating bubble appears directly above the highlighted question with the answer ready immediately.*
 
 ---
 
