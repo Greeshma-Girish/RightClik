@@ -95,4 +95,8 @@ RightClick AI removes those extra steps. Select something, right-click, and get 
 
 ---
 
+<<<<<<< HEAD
 **RightClick AI** — Right-click. Get answers. Keep browsing.
+=======
+**RightClick AI** — Right-click. Get answers. Keep browsing.
+>>>>>>> bc14c951d4eb0bfbad08e48bb69870521ff5f3a8
