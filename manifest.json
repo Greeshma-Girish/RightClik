@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "RightClick",
+  "version": "1.1.0",
+  "description": "A personal AI browser assistant powered by Google Gemini.",
+  "permissions": ["contextMenus", "storage", "activeTab", "scripting"],
+  "host_permissions": [
+    "https://generativelanguage.googleapis.com/*",
+    "https://*.googleapis.com/*",
+    "http://localhost/*",
+    "https://*/*"
+  ],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_popup": "popup.html", "default_title": "RightClick AI"},
+  "options_page": "options.html",
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["content.js"],
+    "run_at": "document_idle"
+  }]
+}

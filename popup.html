@@ -1,0 +1,9 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="popup.css"></head><body>
+<div class="app"><header><div class="brand"><span class="mark">R</span><div><b>RightClick AI</b><small>YOUR GEMINI BROWSER ASSISTANT</small></div></div><span class="dot"></span></header>
+<div class="hero"><span class="eyebrow">QUICK ASSISTANT</span><h1>What can I help<br>you with?</h1><p>Ask questions, explain concepts or scan an image — powered by Google Gemini.</p></div>
+<textarea id="question" placeholder="Type or paste a question…"></textarea>
+<div class="tools"><button data-mode="answer" class="selected">Answer</button><button data-mode="explain">Explain</button><button data-mode="hint">Hint</button><button data-mode="pointers">Pointers</button><button data-mode="mcq">MCQ</button><button data-mode="essay">Essay</button></div>
+<label class="upload">＋ <span id="file-label">Add image for Vision Scan</span><input id="image" type="file" accept="image/*" hidden></label>
+<button id="ask" class="ask">Ask Gemini <span>↗</span></button>
+<div id="result" class="result">Your response will appear here.</div><div id="status" class="status">Add your Gemini API key in Settings.</div>
+<footer><a href="options.html" target="_blank">Settings</a><span>Gemini · Cloud AI</span></footer></div><script src="popup.js"></script></body></html>
