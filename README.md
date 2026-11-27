@@ -1,45 +1,4 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="RightClick AI Banner" width="100%">
-</p>
-
-<p align="center">
-  <strong>Instant, distraction-free AI assistance right under your cursor — powered by Google Gemini.</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Manifest-V3-705af8?style=flat-square&logo=googlechrome&logoColor=white" alt="Manifest V3">
-  <img src="https://img.shields.io/badge/AI_Engine-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Storage-Local_Only-success?style=flat-square&logo=security" alt="Local Storage">
-  <img src="https://img.shields.io/badge/Zero_Tracking-Privacy_First-00C7B7?style=flat-square" alt="Privacy First">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License">
-</p>
-
----
-
-## 🎬 Visual Preview
-
-<p align="center">
-  <img src="assets/ui-preview.svg" alt="RightClick AI in Action" width="100%">
-</p>
-
-> ### 📹 Demo Video / Recording
-> <details>
-> <summary><b>Click to expand video player instructions & placeholder</b></summary>
->
-> You can drop a screen recording or GIF of the extension in action here!
-> 
-> ```markdown
-> <!-- Example: replace with your YouTube / GitHub raw video link -->
-> <video width="100%" controls autoplay loop muted>
->   <source src="assets/demo-walkthrough.mp4" type="video/mp4">
->   Your browser does not support the video tag.
-> </video>
-> ```
-> 
-> *Tip: Record a quick 15-second walkthrough using Windows Game Bar (`Win + G`) or ShareX, convert to `.mp4` or `.gif`, and place it in the `assets/` folder.*
-> </details>
-
----
+RightClik
 
 ## ⚡ Highlights & Key Capabilities
 
